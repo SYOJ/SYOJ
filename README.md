@@ -1,0 +1,2 @@
+# SYOJ
+GuGuGu OnlineJudge
